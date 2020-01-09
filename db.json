@@ -1,11 +1,11 @@
 [
-  {
-    "name": "Admin"    
-  },
-  {
-    "name": "Validateur"    
-  },
-  {
-    "name": "Analyste"    
-  }
-] 
+   {
+      "name":"Admin"
+   },
+   {
+      "name":"Validateur"
+   },
+   {
+      "name":"Analyste"
+   }
+]
