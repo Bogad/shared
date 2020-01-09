@@ -1,5 +1,5 @@
-{
-  "profiles": [
+[
+ 
     {
       "name": "Admin"    
     },
@@ -9,5 +9,5 @@
     {
       "name": "Analyste"    
     }
-  ]
-}
+ 
+]
